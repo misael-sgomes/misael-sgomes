@@ -21,6 +21,7 @@ Aqui estão as tecnologias que utilizo nos meus projetos:
 
 ### 📫 Contato
 
-Sinta-se à vontade para entrar em contato comigo!
-
+Sinta-se à vontade para entrar em contato comigo! <br>
+<a target="_blank">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/misael-gomes/)](https://www.linkedin.com/in/misael-gomes/)
+</a>
