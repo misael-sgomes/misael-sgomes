@@ -20,18 +20,46 @@ Busco evolução técnica constante e boas práticas no desenvolvimento front-en
 
 ---
 
-## 📊 GitHub Stats
+## 🔥  Projetos em Destaque
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=misael-sgomes&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misael-sgomes&layout=compact&theme=dark&hide_border=true"/>
-</div>
+### 🦷 Clínica Bright Dentista
+Aplicação web institucional desenvolvida com foco em estrutura semântica, responsividade e organização visual.
+
+🔗 Deploy: https://clinica-bright-dentista.vercel.app/  
+💻 Repositório: https://github.com/misael-sgomes/clinica-bright-dentista  
+
+**Principais pontos:**
+- Estrutura semântica em HTML
+- Layout responsivo com CSS
+- Organização de seções e navegação clara
+- Versionamento com Git
 
 ---
 
-## 🔥 Atividade no GitHub
+### 🏋️ Academia Yellow
+Site institucional com foco em apresentação de serviços e experiência visual moderna.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=misael-sgomes&theme=github-compact&hide_border=true" />
+🔗 Deploy: https://academia-yellow.vercel.app/  
+💻 Repositório: https://github.com/misael-sgomes/academia-yellow  
+
+**Principais pontos:**
+- Estrutura organizada e componentizada
+- Aplicação de responsividade
+- Organização visual com CSS
+- Código estruturado e versionado
+
+---
+
+### 🧾 Portal Interno de Consultas Tributárias
+Projeto desenvolvido para centralizar consultas fiscais antes distribuídas em múltiplas planilhas internas.
+
+
+
+**Principais pontos:**
+- Centralização de informações tributárias
+- Interface simples e funcional
+- Utilitário para remoção automática de caracteres em linhas digitáveis e chaves de acesso
+- Manipulação de DOM e tratamento de strings em JavaScript
 
 ---
 
