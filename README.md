@@ -53,7 +53,8 @@ Site institucional com foco em apresentação de serviços e experiência visual
 ### 🧾 Portal Interno de Consultas Tributárias
 Projeto desenvolvido para centralizar consultas fiscais antes distribuídas em múltiplas planilhas internas.
 
-
+🔗 Deploy: https://portal-recebimento-fiscal-one.vercel.app/  
+💻 Repositório: https://github.com/misael-sgomes/portal-recebimento-fiscal.git
 
 **Principais pontos:**
 - Centralização de informações tributárias
